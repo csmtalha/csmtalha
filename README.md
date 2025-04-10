@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Talha S.</h1>
 <h3 align="center">Results-driven Software Engineer</h3>
 
-- 🔭 I’m currently working on [AL Ibrahim Travels](https://alibrahimportal.web.app/)
-
 - 🌱 I’m currently learning **Nextjs**
 
 - 💬 Ask me about **Reactjs, Nextjs, Nestjs, Nodejs, Wordpress, Shopify**
